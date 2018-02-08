@@ -1,0 +1,11 @@
+/* Здесь будут храниться стили нашего сайта */
+
+body {
+	margin: 0;
+	font-family: 'Roboto';
+}
+header {
+	padding-top: 59px;
+	background-color: #3a7dfd;
+	color: #fff;
+}
